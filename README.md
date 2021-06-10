@@ -1,4 +1,5 @@
-#                                               Projeto Git
+<<<<<<< HEAD
+#Projeto Git
 
                                     Aqui aprendo a usar o Git & GitHub
 ---------------------------------------------------------------------------------------------------------------
@@ -68,3 +69,7 @@ PS> Abrir os projetos pelo GitHub Desktop
 
 
 
+=======
+# Projeto Git
+ Aqui aprendo a usar o Git & GitHub
+>>>>>>> 19ced9022e2c451d9496a1201defee102abf380c
