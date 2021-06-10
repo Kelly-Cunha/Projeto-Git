@@ -8,7 +8,7 @@
  
  Criar conta no site GitHub (repositório remoto) configurando meus interesses (depois pode modificar)
 
- Baixar e instalar (estes programas irão trabalhar em parceria (integralmente) de maneira simultânea, sincronizado servidor remoto e servidor local): Visual Studio Code (baixar extensões da linguagem Java Script (JS) e português), Git e GitHub Desktop (repositório local)
+ Baixar e instalar (estes programas irão trabalhar em parceria (integralmente) de maneira simultânea, sincronizado servidor remoto e servidor local): Visual Studio Code (configurar "salvar automaticamente",baixar extensões da linguagem Java Script (JS) e português), Git e GitHub Desktop (repositório local)
 
  ______________________________________________________________________________________________________________
                                             GitHub Desktop (PC)
@@ -30,6 +30,10 @@ Depois de algum "commit remoto" (site GitHub)
 Clicar no botão "Fetch Origin" (Confirma a origem)
 Clicar no botão "Pull Origin" (Pegar as alterações efetivadas no site)
 
+                            ***************************************************
+                                                Atalhos
+Push Origin: "Ctrl + p"
+Commit to main: "Ctrl + enter"
  ______________________________________________________________________________________________________________
                                             Visual Studio Code (PC)
 
@@ -59,9 +63,13 @@ Digitar "<p>lorem</p> seguido de enter"
 Criar linha horizontal digitando "hr seguido de enter"
 
 Commito/atualizo no GitHub Desktop
+O GitHub Desktop me dá opção "Push Origin"
+Atualizar a página do GitHub
 
-
-
+                            ***************************************************
+                                            Abreviaturas
+U "não atualizado"
+M "modificado"                                            
 _______________________________________________________________________________________________________________
 
 PS> Abrir os projetos pelo GitHub Desktop
