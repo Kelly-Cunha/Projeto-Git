@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 #Projeto Git
 
                                     Aqui aprendo a usar o Git & GitHub
----------------------------------------------------------------------------------------------------------------
+                                    
+-------------------------------------------------------------------------------------------------------------------------
  
  Usar navegador Google Chrome ou Edge (ambos Microsoft) são melhores para programação
  
@@ -10,7 +10,8 @@
 
  Baixar e instalar (estes programas irão trabalhar em parceria (integralmente) de maneira simultânea, sincronizado servidor remoto e servidor local): Visual Studio Code (configurar "salvar automaticamente",baixar extensões da linguagem Java Script (JS) e português), Git e GitHub Desktop (repositório local)
 
- ______________________________________________________________________________________________________________
+ _________________________________________________________________________________________________________________________
+
                                             GitHub Desktop (PC)
  
  Criar "Novo Repoisitório" com nome sem acentos ou vírgulas e outras (no Visual Studio Code poderá efetivar as correções), descrição, local path, marcar opção para iniciar repositório com README, escolher licença MIT License (público)
@@ -30,11 +31,33 @@ Depois de algum "commit remoto" (site GitHub)
 Clicar no botão "Fetch Origin" (Confirma a origem)
 Clicar no botão "Pull Origin" (Pegar as alterações efetivadas no site)
 
+
+
                             ***************************************************
-                                                Atalhos
+
+                                        Versionar Projetos Antigos
+
+Abrir o GitHub Desktop > File > New Project (Ctrl+N)
+Coloque todas as informações (Nome e Descrição), confira o local a ser criado o novo projeto, marque a caixa para abrir em README, escolha a linguagem ou deixe vazio, licença opção "MTI License" > Publish Repository
+Conferir "Nome e Descrição", desmarcar opção privada "keep this code private" (para colaborador ou proprietário de empresa terá opção para publicar em nome da empresa) > Publish Repository
+
+Através do Explorer criar uma Pasta para Download dos projetos desejados
+
+No GitHub Desktop verificar a lista dos projetos a serem enviados para o Depositório Remoto (GitHub): pastas são criadas, como "DS_STORE"
+Botão direito em cima da pasta a ser desprezada > Ignore pasta (e add to gitignore): todas as pastas com o mesmo nome serão encaminhadas para esta pasta gitignore e não será versionada nem enviada
+
+
+
+
+
+
+                            ***************************************************
+
+                                                    Atalhos
 Push Origin: "Ctrl + p"
 Commit to main: "Ctrl + enter"
- ______________________________________________________________________________________________________________
+ _________________________________________________________________________________________________________________________
+
                                             Visual Studio Code (PC)
 
 Ao abrir o "Visual Studio Code" efetivo as correções do Repositório criado no GitHub Desktop
@@ -67,17 +90,23 @@ O GitHub Desktop me dá opção "Push Origin"
 Atualizar a página do GitHub
 
                             ***************************************************
+
                                             Abreviaturas
 U "não atualizado"
 M "modificado"                                            
 _______________________________________________________________________________________________________________
 
-PS> Abrir os projetos pelo GitHub Desktop
+PS>
+1- Abrir os projetos pelo GitHub Desktop (há opões para abrir o projeto pelo VSC, Explorer ou pelo site GitHub)
+2- Para verificar se o projeto ESTÁ versionado: abrir pelo Explorer > Exibir > Itens Ocultos (mostra a pasta ".git"); ou abrir o Explorer e acrescentar no endereço "\.git seguido de enter" (a pasta vai abrir)
+3- Para clonar um projeto alheio: abrir o site GitHub no projeto desejado e abrir > Clone/Download (vai ser clonado tanto para o PC quanto para o GitGub Desktop)
+
+
 
 
 
 
 =======
 # Projeto Git
- Aqui aprendo a usar o Git & GitHub
+ Aqui aprendo como usar o Git & GitHub
 >>>>>>> 19ced9022e2c451d9496a1201defee102abf380c
